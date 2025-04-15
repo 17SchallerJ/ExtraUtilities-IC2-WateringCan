@@ -1,0 +1,11 @@
+[
+{
+  "modid": "WateringCanMod",
+  "name": "Extra Utilities Watering Can Tweak",
+  "description": "Makes the Watering Can work with IC2 crops.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "authorList": ["SchallerJ"],
+  "dependencies": ["ExtraUtilities", "IC2"]
+}
+]
